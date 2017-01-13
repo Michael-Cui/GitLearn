@@ -5,4 +5,6 @@ git commit
 git push
 
 git branch
-git checkout
+git checkout 
+
+git pull
